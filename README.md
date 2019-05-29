@@ -1,2 +1,2 @@
 # Human-Activity-Recognition-Using-Smartphones
-Final year major project on analysing the performance of a human activity recognition system for various machine learning models and improving it.
+B. Tech final-year major project on analyzing the performance of a human activity recognition system for Logistic Regression, Support Vector Machines, Random Forest & K-Nearest Neighbors and improving them through feature extraction & Principal Component Analysis.
